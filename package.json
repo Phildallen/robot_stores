@@ -1,0 +1,24 @@
+{
+  "name": "robot_stores",
+  "version": "1.0.0",
+  "description": "promise-sql exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Phildallen/robot_stores.git"
+  },
+  "author": "Phil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phildallen/robot_stores/issues"
+  },
+  "homepage": "https://github.com/Phildallen/robot_stores#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "promise-mysql": "^5.2.0"
+  }
+}
